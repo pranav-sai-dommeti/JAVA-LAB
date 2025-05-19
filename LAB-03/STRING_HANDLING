@@ -1,33 +1,3 @@
-Skip to content
-Navigation Menu
-david4joseph
-JAP_LAB
-
-Type / to search
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-JAP_LAB/Lab 3
-/B_StringHandling
-Go to file
-t
-david4joseph
-david4joseph
-Create B_StringHandling
-ed86c86
- · 
-2 hours ago
-JAP_LAB/Lab 3
-/B_StringHandling
-
-Code
-
-Blame
-38 lines (31 loc) · 1.57 KB
 import java.util.Scanner;
 
 public class StringBufferHandling {
@@ -59,13 +29,12 @@ public class StringBufferHandling {
         scanner.close();
     }
 }
-
+ 
 OUTPUT:
-
+ 
 Capacity of StringBuffer object sb1: 16
 Capacity of StringBuffer object sb2: 21
 Enter a string: Hello World
 Reversed string in uppercase: DLROW OLLEH
 Enter a string to append: This is
 String after appending: dlroW olleHThis is
-JAP_LAB/Lab 3/B_StringHandling at main · david4joseph/JAP_LAB 
