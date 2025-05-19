@@ -30,3 +30,18 @@ public class GymMembershipManager {
         scanner.close();
     }
 }
+
+OUTPUT:
+
+Welcome to the Gym Membership Management System
+Enter member name: Pranav
+Enter member age: 20
+Is the membership active? (true/false): true
+Enter membership duration (in months): 12
+
+Member Details:
+Name: Pranav
+Age: 20
+Membership Status: Active
+Membership Duration: 12 months
+Membership Fee: $600.00
